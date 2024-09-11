@@ -73,7 +73,7 @@ const Services = () => {
       <div className="w-full flex flex-col justify-center items-start space-y-4">
         <h1 className="text-5xl w-[50%] md:text-8xl text-[#3C130E] font-nohemi">Our Services</h1>
         <p className="text-md md:text-2xl lg:text-xl p-2 font-neue">
-          Discover a wide range of features designed to ensure your dog's health, safety, and well-being.
+          Discover a wide range of features designed to ensure your dog&apos;s health, safety, and well-being.
         </p>
       </div>
 
